@@ -1,6 +1,10 @@
 Chapter 3 - The End Is Only The Beginning - test-almas-confiliict
 
+<<<<<<< HEAD
 %%%%%%%%%%%%%%%%%%%%%%ROHIT
+=======
+
+>>>>>>> ab5a39550c040be689999b7c12fb633723c99935
 #################
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&33333333333333
 sssssssssssssss
